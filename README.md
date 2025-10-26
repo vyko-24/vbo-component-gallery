@@ -28,9 +28,9 @@ Screenshots:
 
 Instrucciones
 en cmd:
-git clone vbo-component-gallery
-cd vbo-component-gallery
-flutter pub get
-flutter run
+* git clone vbo-component-gallery
+* cd vbo-component-gallery
+* flutter pub get
+* flutter run
 
 Version de flutter: 3.35.2
