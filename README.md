@@ -28,7 +28,7 @@ Screenshots:
 
 Instrucciones
 en cmd:
-* git clone vbo-component-gallery
+* git clone https://github.com/vyko-24/vbo-component-gallery.git
 * cd vbo-component-gallery
 * flutter pub get
 * flutter run
